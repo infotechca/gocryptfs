@@ -39,3 +39,12 @@ gocryptfs vault mount
 ```bash
 fusermount -u mount
 ```
+---
+▀▄▀▄▀▄ [ Follow us on ] ▄▀▄▀▄▀<br/>
+Website:    https://www.infotechca.com<br/>
+YouTube:    https://youtube.com/infotechca<br/>
+Twitter:    https://twitter.com/infotechca<br/>
+Facebook:   https://www.facebook.com/infotechca.hyd<br/>
+Instagram:  https://www.instagram.com/infotechca<br/>
+Pinterest:  https://pinterest.com/infotechca<br/>
+Github:     https://github.com/infotechca<br/>
