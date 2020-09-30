@@ -32,11 +32,8 @@ mkdir mount
 gocryptfs vault mount
 ```
 ### let’s Encrypt Some Data
-![gocryptfs](https://media.giphy.com/media/C9r5gXC0MR27xKdeVh/giphy.gif)
-![gocryptfs](https://github.com/ashkan-nasirzadeh/simpleShell/blob/master/README%20assets/shell-gif.gif?raw=true)
-https://github.com/ashkan-nasirzadeh/simpleShell/blob/master/README%20assets/shell-gif.gif?raw=true
-
-
+![gocryptfs](https://github.com/infotechca/gocryptfs/blob/master/gocryptfs.gif?raw=true)
+---
 ### Unmounting the Encrypted Directory
 
 ```bash
